@@ -1,0 +1,6 @@
+# Model weights, generated results, and local Python environments.
+/models/
+/runs/
+/.venv*/
+__pycache__/
+*.py[cod]
